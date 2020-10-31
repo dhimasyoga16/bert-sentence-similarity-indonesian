@@ -2,7 +2,7 @@
 
 
 I'm new into Deep Learning, but i feel proud to share my first Deep Learning Web App to the world :
-"A simple Web App which is using BERT to identify Indonesian question/sentence/word similarity"
+"A simple Web App which use BERT to identify Indonesian question/sentence/word similarity"
 
 The technology behind this is ***Google's BERT*** and ***IndoBERT as the language model***
 
